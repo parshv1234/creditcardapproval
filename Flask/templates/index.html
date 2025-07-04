@@ -1,0 +1,71 @@
+<!doctype html> 
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content=""> 
+  <meta name="author" content=""> 
+  <link rel="icon" href="static/logo.png">
+
+  <title>Credit Card Approval Home</title>
+
+  <!-- Bootstrap CSS from CDN -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Optional: your custom CSS (if exists) -->
+  <!-- <link href="{{ url_for('static', filename='css/album.css') }}" rel="stylesheet"> -->
+</head>
+
+<body>
+  <header>
+    <div class="navbar navbar-dark bg-dark box-shadow"> 
+      <div class="container d-flex justify-content-between"> 
+        <a href="#" class="navbar-brand d-flex align-items-center"> 
+          <strong>SmartBridge</strong> 
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarHeader"
+          aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main role="main">
+    <section class="jumbotron text-center">
+      <div class="container">
+        <h1 class="jumbotron-heading">Credit Card Approval Prediction</h1>
+        <form action="/Prediction" method="post">
+          <p>
+            <a href="/" class="btn btn-secondary my-2">Home</a>
+            <input type="submit" class="btn btn-primary my-2" value="Prediction">
+          </p>
+        </form>
+
+        <h1 class="jumbotron-heading">About Project</h1>
+        <p class="lead text-muted">
+          This Machine Learning Model is responsible for calculating whether a credit card is going to be approved
+          or not based on data like education type, property ownership, job profile, gender, credit score, and repayment behavior, etc.
+          It analyzes these data points using previous customer behavior to determine if an applicant is eligible for a credit card.
+        </p>
+      </div>
+    </section> 
+  </main>
+
+  <footer class="text-muted">
+    <div class="container">
+      <p class="float-right">
+        <a href="#">Back to top</a>
+      </p>
+      <p>PREDICTING CREDIT CARD APPROVAL; SmartBridge!</p>
+      <p>Credit Card Approval Prediction is licensed under the MIT License.</p>
+    </div>
+  </footer>
+
+  <!-- Bootstrap JS and dependencies from CDN -->
+  <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js"></script>
+</body>
+</html>
