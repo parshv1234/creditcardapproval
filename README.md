@@ -1,5 +1,3 @@
-Perfect — here’s your final GitHub-ready README.md and requirements.txt all in one copy-paste block, properly formatted so you can drop them straight into your repo ✅
-
 # Credit Card Approval Prediction 💳🤖
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
