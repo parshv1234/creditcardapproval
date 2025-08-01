@@ -5,9 +5,9 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ScikitLearn-orange)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Issues](https://img.shields.io/github/issues/parshv1234/credit-card-approval)
-![Stars](https://img.shields.io/github/stars/parshv1234/credit-card-approval)
-![Forks](https://img.shields.io/github/forks/parshv1234/credit-card-approval)
+![Issues](https://img.shields.io/github/issues/parshv1234/creditcardapproval)
+![Stars](https://img.shields.io/github/stars/parshv1234/creditcardapproval)
+![Forks](https://img.shields.io/github/forks/parshv1234/creditcardapproval)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 
 ---
@@ -58,7 +58,7 @@ It includes both:
 
 ## 📂 Project Structure
 ```plaintext
-credit-card-approval/
+creditcardapproval/
 │
 ├── dataset/
 │   ├── application_record.csv
@@ -84,8 +84,8 @@ credit-card-approval/
 
 ### 🔧 Step 1: Clone the repository
 ```bash
-git clone https://github.com//credit-card-approval.git
-cd credit-card-approval
+git clone https://github.com//creditcardapproval.git
+cd creditcardapproval
 ```
 
 ### 🔧 Step 2: Create & activate a virtual environment
