@@ -5,9 +5,9 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ScikitLearn-orange)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Issues](https://img.shields.io/github/issues/<your-username>/credit-card-approval)
-![Stars](https://img.shields.io/github/stars/<your-username>/credit-card-approval)
-![Forks](https://img.shields.io/github/forks/<your-username>/credit-card-approval)
+![Issues](https://img.shields.io/github/issues/parshv1234/credit-card-approval)
+![Stars](https://img.shields.io/github/stars/parshv1234/credit-card-approval)
+![Forks](https://img.shields.io/github/forks/parshv1234/credit-card-approval)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 
 ---
@@ -18,9 +18,9 @@
 - [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
 - [Installation & Usage](#️-installation--usage)
-- [Screenshots](#-screenshots)
+<!-- - [Screenshots](#-screenshots) -->
 - [Results & Achievements](#-results--achievements)
-- [Future Enhancements](#-future-enhancements)
+<!-- - [Future Enhancements](#-future-enhancements) -->
 - [Contributing](#-contributing)
 - [Acknowledgments](#-acknowledgments)
 - [Contact](#-contact)
