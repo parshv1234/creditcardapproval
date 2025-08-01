@@ -18,9 +18,7 @@
 - [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
 - [Installation & Usage](#️-installation--usage)
-<!-- - [Screenshots](#-screenshots) -->
 - [Results & Achievements](#-results--achievements)
-<!-- - [Future Enhancements](#-future-enhancements) -->
 - [Contributing](#-contributing)
 - [Acknowledgments](#-acknowledgments)
 - [Contact](#-contact)
@@ -149,3 +147,5 @@ Contributions are welcome!
 
 ## 📜 License
 - This project is licensed under the **MIT License**. See the LICENSE file for more details.
+<!-- - [Future Enhancements](#-future-enhancements) -->
+<!-- - [Screenshots](#-screenshots) -->
