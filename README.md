@@ -64,7 +64,7 @@ credit-card-approval/
 
 ### 🔧 Step 1: Clone the repository
 ```bash
-git clone https://github.com/<your-username>/credit-card-approval.git
+git clone https://github.com//credit-card-approval.git
 cd credit-card-approval
 ```
 
