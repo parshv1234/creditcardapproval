@@ -5,6 +5,26 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ScikitLearn-orange)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Issues](https://img.shields.io/github/issues/<your-username>/credit-card-approval)
+![Stars](https://img.shields.io/github/stars/<your-username>/credit-card-approval)
+![Forks](https://img.shields.io/github/forks/<your-username>/credit-card-approval)
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
+
+---
+
+## 📑 Table of Contents
+- [Overview](#-overview)
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Project Structure](#-project-structure)
+- [Installation & Usage](#️-installation--usage)
+- [Screenshots](#-screenshots)
+- [Results & Achievements](#-results--achievements)
+- [Future Enhancements](#-future-enhancements)
+- [Contributing](#-contributing)
+- [Acknowledgments](#-acknowledgments)
+- [Contact](#-contact)
+- [License](#-license)
 
 ---
 
@@ -88,6 +108,12 @@ python app.py
 - 📌 Once the application is running, open your web browser and navigate to the following address:
 - 👉 http://127.0.0.1:5000/
 
+<!-- ## 📷 Screenshots
+Here’s a preview of the application in action:
+
+![Home Page](assets/homepage.png)
+![Prediction Result](assets/result.png) -->
+
 ## 📊 Results & Achievements
 - ✅ Achieved an **87.4/100** performance score during the final internship evaluation.
 
@@ -103,6 +129,14 @@ python app.py
 - 🔎 **Add Explainable AI (XAI):** Integrate libraries like SHAP or ELI5 to provide transparency and explain model predictions.
 
 - 🔌 **Expose REST API:** Develop and expose REST API endpoints for seamless enterprise-level integration.
+
+## 🤝 Contributing
+Contributions are welcome!  
+1. Fork the repository  
+2. Create a new branch (`newfeature`)  
+3. Commit your changes  
+4. Push to your branch  
+5. Open a Pull Request  
 
 ## 🙏 Acknowledgments
 - Special thanks to **SmartBridge** and **Google for Developers** for their invaluable guidance and support throughout the duration of this project.
