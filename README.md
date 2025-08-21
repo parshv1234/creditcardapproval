@@ -123,9 +123,9 @@ python app.py
 ## 📷 Screenshots
 Here’s a preview of the application in action:
 
-![Home Page](/homepage.png)
-![Sample Input](/sampleinput.png)
-![Prediction Result](/result.png)
+![Home Page](/assets/homepage.png)
+![Sample Input](/assets/sampleinput.png)
+![Prediction Result](/assets/result.png)
 
 ---
 ## 📊 Results & Achievements
@@ -135,8 +135,8 @@ Here’s a preview of the application in action:
 
 - ✅ Developed a **fully functional Flask web application** for demonstrating the model's predictions.
 
-![Model Scores](/scores1.png)
-![Model Scores](/scores2.png)
+![Model Scores](/assets/scores1.png)
+![Model Scores](/assets/scores2.png)
 
 ---
 ## 📈 Future Enhancements
