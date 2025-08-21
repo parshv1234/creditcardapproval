@@ -27,8 +27,12 @@
 ---
 
 ## 📌 Overview
-This project was developed as part of my **CDC Internship** with **SmartBridge** in collaboration with **Google for Developers**.  
-The objective is to predict **Credit Card Approval** using applicant and credit history data.  
+
+This project was developed as part of my **CDC Internship with SmartBridge in collaboration with Google for Developers**.  
+It focuses on building a **Machine Learning model** to predict **credit card approval** based on applicant data.  
+The solution is deployed using **Flask**, providing an easy-to-use web interface for predictions.  
+
+🎥 **[Watch the Demo on YouTube](https://youtu.be/Ffedumx9d_8)**
 
 It includes both:
 - A **Jupyter Notebook** for exploratory analysis and model building  
@@ -36,6 +40,14 @@ It includes both:
 
 ---
 
+## 🎯 Objectives
+
+- Perform **data preprocessing and cleaning** on credit card applicant data  
+- Apply **EDA** to uncover trends and patterns  
+- Train and evaluate multiple ML models with **Scikit-Learn**  
+- Deploy the best-performing model using **Flask**  
+
+---
 ## 🚀 Features
 - 📊 **Data Preprocessing:** Handling missing values & cleaning raw inputs  
 - 🔍 **Exploratory Data Analysis (EDA):** Gaining insights from applicant data  
@@ -111,14 +123,14 @@ Here’s a preview of the application in action:
 
 ![Home Page](assets/homepage.png)
 ![Prediction Result](assets/result.png) -->
-
+---
 ## 📊 Results & Achievements
 - ✅ Achieved an **87.4/100** performance score during the final internship evaluation.
 
 - ✅ Delivered **strong predictive accuracy on unseen applicant data**, validating the model's effectiveness.
 
 - ✅ Developed a **fully functional Flask web application** for demonstrating the model's predictions.
-
+---
 ## 📈 Future Enhancements
 - 🌍 **Deploy the App:** Migrate the application to a cloud platform like Heroku or Render for global access.
 
@@ -127,7 +139,7 @@ Here’s a preview of the application in action:
 - 🔎 **Add Explainable AI (XAI):** Integrate libraries like SHAP or ELI5 to provide transparency and explain model predictions.
 
 - 🔌 **Expose REST API:** Develop and expose REST API endpoints for seamless enterprise-level integration.
-
+---
 ## 🤝 Contributing
 Contributions are welcome!  
 1. Fork the repository  
@@ -135,17 +147,23 @@ Contributions are welcome!
 3. Commit your changes  
 4. Push to your branch  
 5. Open a Pull Request  
-
+---
 ## 🙏 Acknowledgments
 - Special thanks to **SmartBridge** and **Google for Developers** for their invaluable guidance and support throughout the duration of this project.
-
+---
 ## 📬 Contact
 - 👤 **Parshv Keyur Modi**
 
 - **LinkedIn**: www.linkedin.com/in/parshv-modi
 - **Email**: parshv.modi91@gmail.com
 
+---
+
 ## 📜 License
 - This project is licensed under the **MIT License**. See the LICENSE file for more details.
 <!-- - [Future Enhancements](#-future-enhancements) -->
 <!-- - [Screenshots](#-screenshots) -->
+
+✨ Developed during **CDC Internship with SmartBridge & Google for Developers** ✨
+
+---
