@@ -19,10 +19,12 @@
 - [Project Structure](#-project-structure)
 - [Installation & Usage](#️-installation--usage)
 - [Results & Achievements](#-results--achievements)
+- [Screenshots](#-screenshots)
 - [Contributing](#-contributing)
 - [Acknowledgments](#-acknowledgments)
 - [Contact](#-contact)
 - [License](#-license)
+- [Future Enhancements](#-future-enhancements)
 
 ---
 
@@ -118,11 +120,13 @@ python app.py
 - 📌 Once the application is running, open your web browser and navigate to the following address:
 - 👉 http://127.0.0.1:5000/
 
-<!-- ## 📷 Screenshots
+## 📷 Screenshots
 Here’s a preview of the application in action:
 
-![Home Page](assets/homepage.png)
-![Prediction Result](assets/result.png) -->
+![Home Page](/homepage.png)
+![Sample Input](/sampleinput.png)
+![Prediction Result](/result.png)
+
 ---
 ## 📊 Results & Achievements
 - ✅ Achieved an **87.4/100** performance score during the final internship evaluation.
@@ -130,6 +134,10 @@ Here’s a preview of the application in action:
 - ✅ Delivered **strong predictive accuracy on unseen applicant data**, validating the model's effectiveness.
 
 - ✅ Developed a **fully functional Flask web application** for demonstrating the model's predictions.
+
+![Model Scores](/scores1.png)
+![Model Scores](/scores2.png)
+
 ---
 ## 📈 Future Enhancements
 - 🌍 **Deploy the App:** Migrate the application to a cloud platform like Heroku or Render for global access.
@@ -161,8 +169,8 @@ Contributions are welcome!
 
 ## 📜 License
 - This project is licensed under the **MIT License**. See the LICENSE file for more details.
-<!-- - [Future Enhancements](#-future-enhancements) -->
-<!-- - [Screenshots](#-screenshots) -->
+
+---
 
 ✨ Developed during **CDC Internship with SmartBridge & Google for Developers** ✨
 
